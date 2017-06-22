@@ -25,7 +25,7 @@ outliers or missing values, deciding how you will treat them, making sure values
 > * Inside the Data Directory there is various stages of the raw data in txt and csv
 > * Inside the Analysis Diretory there is a clean version of the data in two different forms
 > * Analysis of plots from the clean data like the ones below plus more saved individually.
-> * Analysis was done in R
+> * Analysis was done in R V 1.0.136
 > * This ReadMe contains an outline of the process, and analysis below for directions on reproducibility
 ---
 
